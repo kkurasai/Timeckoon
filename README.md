@@ -24,33 +24,33 @@ O programa foi feito usando as bibliotecas stdio.h, stdlib.h e string.h da lingu
 ## Execução
 Ao executar o programa, menu inicial aparecerá.
 
-![imagem](https://github.com/kkurasai/timeckoon/blob/main/imagem01.jpg)!
+![imagem](https://github.com/ryansakurai/timeckoon/blob/main/img/img_01.jpg)!
 
 Você poderá ir tanto para o menu que trabalha com um único dia quanto o que trabalha com vários dias de uma semana.
 
 ### Calcular horarios disponiveis em um dia qualquer
 Selecionando o menu de dia único o seguinte menú aparecerá:
 
-![imagem](https://github.com/kkurasai/timeckoon/blob/main/imagem02.jpg)
+![imagem](https://github.com/ryansakurai/timeckoon/blob/main/img/img_02.jpg)
 
 Neste menu você poderá definir o início (hora de acordar) e o fim (hora de dormir) do dia e horários ocupados.
 
 Para imprimir os horários livres na tela, selecione "mostrar horários disponíveis".
 
-![imagem](https://github.com/kkurasai/timeckoon/blob/main/imagem03.jpg)
+![imagem](https://github.com/ryansakurai/timeckoon/blob/main/img/img_03.jpg)
 
 Para criar um arquivo com os horários, selecione "criar arquivo com horários disponíveis".
 
 ### Calcular horarios disponiveis em uma semana
 Selecionando o menu da semana o seguinte menú aparecerá:
 
-![imagem](https://github.com/kkurasai/timeckoon/blob/main/imagem04.jpg)
+![imagem](https://github.com/ryansakurai/timeckoon/blob/main/img/img_04.jpg)
 
 Neste menu você poderá definir o inicio e o fim de dias especificos ou da semana inteira, definir o dia da semana cujos horários você irá inserir e inserir um período (é preciso ter um dia definido).
 
 Para imprimir os horários livres na tela, selecione "mostrar horários disponíveis" e escolha entre imprimir os horários de dias específicos ou da semana inteira.
 
-![imagem](https://github.com/kkurasai/timeckoon/blob/main/imagem05.jpg)
+![imagem](https://github.com/ryansakurai/timeckoon/blob/main/img/img_05.jpg)
 
 Para criar um arquivo com os horários, selecione "criar arquivo com horários disponíveis" e escolha entre horários de dias específicos ou da semana inteira.
 
